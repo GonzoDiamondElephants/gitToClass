@@ -20,6 +20,9 @@ function Classroom() {
   return (
     <div className="classroom">
       <div>
+        <div >
+        <a href="https://blissful-hamilton-94ebed.netlify.app/" target="_blank" rel="noopener noreferrer"><img id="homeButton" src="https://www.pinclipart.com/picdir/big/317-3178911_hogwarts-icon-free-download-and-vector-png-hogwarts.png" alt="home button" /></a> 
+        </div>
         <section>
           <div className="classContainer">
               <div id="titleWrap"><h1 id="potionTitle">

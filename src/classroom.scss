@@ -11,13 +11,13 @@ html {
 #potionTitle {
   margin-bottom: -15px;
   margin-top: 7px;
-  width: 460px;
+  width: 600px;
   min-width: 460px;
-  font-size: 11vh;
+  font-size: 6vw;
   display: inline-block;
 }
 #lessonPlan {
-  font-size: 4vh;
+  font-size: 4vw;
   display: inline-block;
   width: 425px;
   text-align: ceter;
@@ -46,4 +46,9 @@ html {
 
 * {
   cursor: url(http://cur.cursors-4u.net/user/use-1/use160.cur), auto !important;
+}
+
+#homeButton {
+  width: 30px;
+  height: auto;
 }
